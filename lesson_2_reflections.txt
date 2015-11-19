@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing the repository creates the .git file which will keep track of all the different files statesover the life of the file.  

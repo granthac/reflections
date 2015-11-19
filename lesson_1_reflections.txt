@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+diff -u highlighted the lines that had differences between the two files making it much easier to detect any discrpencies. It did this by highlighting the line numbers where the changes took place, and only listed the lines that changed rather  than seeing the entire document. 
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+there are several ways that version control can help you be a more efficient programmer in the long term.  For starters it can help with a recovery from an accidental mistake such as deleting a file or inadvertently deleting a file.  It can also make it easier to track down what may have caused a program to behave in an unexpected manner after a change has been made.  
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you in Git, Vs. having versions automatically saved like Google Docs does?
+
+The positve of choosing when to manually create a commmit is that they tend to make sense in that they are grouped together or deal with on specific part of the code.  A con is the aspect of human error, in forgeting to commit in a timely manner or adding too many commits.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google docs, treat each file separately?
+
+Git seems to be designed to address version control where multiple files can be affected at one time from one change.  While google docs assumes different files are linked in such a way.
+
+
+How can you use the commands git log and git diff to view the history of files.
+
+Git log will show you your entire history of commits, while git diff allows you to compare between two commits to see which lines were added and deleted.  
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Knowing that you can go "back in time" to previous versions of the project you are working on, will most likely remove the fear of breaking something that you are working on.
+
+Now that you have your workspace set up what do you want to try using Git for? 
+
+Checking out different commits and seeing if I have made changes to file, but have yet to commit it. 
+
+
+
