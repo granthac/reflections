@@ -7,4 +7,6 @@ How is the staging area different from the working directory and the repository?
 
 The staging area allows us to select the files that we want to commit to the repository and then shows uswhat will be committed.  It allows us to commit only the files that we have changed rather than everything in the repository.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+Branches help when you are working on a new feature or version of your code but are not ready to introduce it to the main code quite yet.  This allows you to keep the working version of your code up while working on new features seperately. 
