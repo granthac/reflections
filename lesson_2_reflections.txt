@@ -10,3 +10,7 @@ The staging area allows us to select the files that we want to commit to the rep
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches help when you are working on a new feature or version of your code but are not ready to introduce it to the main code quite yet.  This allows you to keep the working version of your code up while working on new features seperately. 
+
+How do the diagrams help you visualize the branch structure?
+
+Diagraming the branchs can help you understand what the parent branch is for each commit.
