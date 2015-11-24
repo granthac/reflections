@@ -14,3 +14,7 @@ Branches help when you are working on a new feature or version of your code but 
 How do the diagrams help you visualize the branch structure?
 
 Diagraming the branchs can help you understand what the parent branch is for each commit.
+
+What is the result of merging two branches together? Why do we represent it in the a diagram the way we do?
+
+Merging two branches keeps a log of all the commits on both branches and merges them by simply forgetting the name of the branch we wish to get rid of and keeps the master or whatever branch you are checked out on.  The diagram allows us to see which branch is the parent for the different commits.
