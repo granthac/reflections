@@ -18,3 +18,9 @@ Diagraming the branchs can help you understand what the parent branch is for eac
 What is the result of merging two branches together? Why do we represent it in the a diagram the way we do?
 
 Merging two branches keeps a log of all the commits on both branches and merges them by simply forgetting the name of the branch we wish to get rid of and keeps the master or whatever branch you are checked out on.  The diagram allows us to see which branch is the parent for the different commits.
+
+
+What are the pros and cons of git's automatic merging vs. always doing merges manually?
+
+The pros are that the it will never accidently let you merge over something and clearly annotates what is differeing between the two branches, while manually merging will not show you the differences.
+
