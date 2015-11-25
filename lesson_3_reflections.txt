@@ -14,3 +14,8 @@ A fork is essentially a clone that happens on GitHub that is done by GitHub.  It
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Knowing what the last state of the remote allows us to have a jumping off point for when we do decide to push a commit.  If there are any discrepencies, git will tell us and we can resolve them.
+
+How would you collaborate without Git or Github? What would be easier, and what would be harder?
+
+You could collaborate using dropbox or some other web based storage, but coordintating where everyone was and what they are working on would be much more difficult.
+`
