@@ -18,4 +18,7 @@ Knowing what the last state of the remote allows us to have a jumping off point 
 How would you collaborate without Git or Github? What would be easier, and what would be harder?
 
 You could collaborate using dropbox or some other web based storage, but coordintating where everyone was and what they are working on would be much more difficult.
-`
+
+When would you want to make changes in a seperate branch rather than directly in master?  What benefits does each approach have?
+
+If you are unsure about the change that you are making and want to have other people review the change you might make the change in a sseprate branch prior to merging to the master branch.  
